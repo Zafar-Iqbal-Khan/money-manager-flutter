@@ -1,16 +1,15 @@
-# phixlab_money
+# MoneyManager x Flutter
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Screenshots
+<p align="center">
 
-A few resources to get you started if this is your first Flutter project:
+  <img src="https://user-images.githubusercontent.com/68896404/208295301-661b13e1-85de-44e6-9569-96b1d1376e0c.png" width="300">
+  <img src="https://user-images.githubusercontent.com/68896404/208295306-620bff6b-893a-4743-8d45-a208a5637e71.png" width="300">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  </p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![image](https://user-images.githubusercontent.com/68896404/208295319-2cd1929a-0322-4fff-8ede-ed48d80e4007.png)
+
